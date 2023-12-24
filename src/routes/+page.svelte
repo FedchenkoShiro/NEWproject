@@ -160,6 +160,223 @@
             </button>
         </nav>
     </div>
+    <div class="cases container">
+      <h2>Кейсы</h2>
+      <div class="articles">
+        <div class="article-block">
+          <div class="article-img" style="background-image: url(../img/case-image-1.jpg)"></div>
+          <h3>Кэширование данных. Апгрейд сервера. Boost работы сайта в 40 раз!</h3>
+          <div class="art-data">04.05.2022</div>
+            <div class="art-text">Влияние скорости загрузки сайта на отказы и конверсии. Кейс ускорения...
+            </div>
+          </div>
+          <div class="article-block article-block-full-img">
+            <div class="article-img" style="background-image: url(../img/case-image-2.jpg)"></div>
+            <h3>Отчёты Ecommerce в Яндекс.Метрике</h3>
+          </div>
+          <div class="article-block article-block-full-img">
+            <div class="article-img" style="background-image: url(../img/case-image-3.jpg)"></div>
+              <h3>Повышение конверсии страницы с формой с применением AB-тестирования</h3>
+              <div class="art-data">24.01.2022</div>
+            </div>
+          <div class="article-block article-block-full-img">
+            <div class="article-img" style="background-image: url(../img/case-image-4.jpg)"></div>
+              <h3>Drupal 7: ускорение времени генерации страниц интернет-магазина на 32%</h3>
+            <div class="art-data">23.09.2012</div>
+          </div>
+          <div class="article-block">
+            <div class="article-img" style="background-image: url(../img/case-image-5.jpg)"></div>
+            <h3>Обмен товарами и заказами интернет-магазинов на Drupal 7 с 1С: Предприятие, МойСклад, Класс365</h3>
+            <div class="art-data">22.08.2020</div>
+            <div class="art-text">Опубликован <div class="ref">релиз модуля...</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  <div class="reviews-slider-block">
+    <h2 class="reviews-title"> Отзывы </h2>
+    <div class="reviews-slider container">
+      <div class="review-content">
+        <div class="review-slick">
+          <div class="review-slick-slider">
+<!-- проблема -->
+            <div class="review-item">
+              <div class="review-img-block">
+                <img src="../img/logo-ciel.png" alt="Логотип">
+              </div>
+              <div class="review-text">
+                Долгие поиски единственного и неповторимого мастера на многострадальный сайт&nbsp;www.cielparfum.com, который был собран крайне некомпетентным программистом и раз в месяц стабильно грозил погибнуть, привели меня на сайт и, в итоге, к ребятам из Drupal-coder. И вот уже практически полгода как не проходит и дня, чтобы я не поудивлялась и не порадовалась своему везению! Починили все, что не работало - от поиска до отображения меню. Провели редизайн - не отходя от желаемого, но со своими существенными и качественными дополнениями. Осуществили ряд проектов - конкурсы, тесты и тд. А уж мелких починок и доработок - не счесть! И главное - все качественно и быстро (не взирая на не самый "быстрый" тариф). Есть вопросы - замечательный Алексей всегда подскажет, поддержит, отремонтирует и/или просто сделает с нуля. Есть задумка для реализации - замечательный Сергей обсудит и предложит идеальный вариант. Есть проблема - замечательные Надежда и Роман починят, поправят, сделают! Ребята доказали, что эта CMS - мощная и грамотная система управления. Надеюсь, что наше сотрудничество затянется надолго! Спасибо!!!
+              </div>
+              <div class="author-of-review">
+                С уважением, Наталья Сушкова - руководитель Отдела веб-проектов Группы компаний "Си Эль парфюм"
+                <a href="https://cielparfum.com">https://cielparfum.com</a>
+              </div>
+            </div>
+
+            <div class="review-item">
+                <div class="review-img-block">
+                  <img src="../img/logo-personalwriter.png" alt="Логотип">
+                </div>
+                <div class="review-text">
+                  Сергей — профессиональный, высококвалифицированый программист с огромным опытом в ИТ. Я долгое время общался с топ-фрилансерами (вся первая двадцатка) на веблансере и могу сказать, что С СЕРГЕЕМ ОНИ И РЯДОМ НЕ ВАЛЯЛИСЬ. Работаем с Сергеем до сих пор. С ним приятно работать, я доволен.
+                </div>
+                <div class="author-of-review">
+                  Сергей Чепурко, руководитель проекта
+                  <a href="https://personal-writer.com/">www.personal-writer.com</a>
+                </div>
+            </div>
+  
+            <div class="review-item">
+              <div class="review-img-block">
+                <img src="../img/logo-farbors.jpg" alt="Логотип">
+              </div>
+              <div class="review-text">
+                Выражаю глубочайшую благодарность команде специалистов компании "Инитлаб" и лично Дмитрию Купянскому и Алексею Синице. Сайт был первоклассно перевёрстан из старой табличной модели в новую на базе Drupal с дополнительной функциональностью. Всё было сделано с высочайшим качеством и точно в сроки. Всем кому хочется без нервов и лишних вопросов разработать сайт рекомендую обращаться именно к этой команде профессионалов.
+              </div>
+              <div class="author-of-review">
+                Леонид Александрович Ледовский
+              </div>
+            </div>
+  
+            <div class="review-item">
+              <div class="review-img-block">
+                <img src="../img/logo-ournewspaper.png" alt="Логотип">
+              </div>
+              <div class="review-text">
+                Моя электронная газета www.nashagazeta.ch существует в Швейцарии уже 10 лет. За это время мы сменили 7 специалистов по техподдержке, и только сейчас, в последние несколько месяцев, с начала сотрудничества с Алексеем Синицей и его командой, я впервые почувствовала, что у меня есть надежный технический тыл. Без громких слов и обещаний, ребята просто спокойно и качественно делают работу, быстро реагируют, находят решения, предлагают конкретные варианты улучшения функционирования сайта и сами их оперативно осуществляют. Сотрудничество с ними – одно удовольствие!
+              </div>
+              <div class="author-of-review">
+                Надежда Сикорская, Женева, Швейцария
+              </div>
+            </div>
+  
+            <div class="review-item">
+              <div class="review-img-block">
+                <img src="../img/logo-estee.png" alt="Логотип">
+              </div>
+              <div class="review-text">
+                Наша компания Estee Design занимается дизайном интерьеров. Сайт сверстан на Drupal. Искали программистов под выполнение ряда небольших изменений и корректировок по сайту. Пообщавшись с Алексеем Синицей, приняли решение о начале работ с компанией Initlab/drupal-coder. Сотрудничеством довольны на 100%. Четкая и понятная система коммуникации, достаточно оперативное решение по задачам. Дали рекомендации по улучшению програмной части сайта, исправили ряд скрытых ошибок. Никогда не пишу отзывы (нет времени), но в данном случае, по просьбе Алексея, не могу не рекомендовать Initlab другим людям - действительно компания профессионалов.
+              </div>
+              <div class="author-of-review">
+                Кузин Вадим, руководитель строительного направления Дизайн-бюро интерьеров Estee
+                <a href="https://estee-design.ru/">estee-design.ru</a>
+              </div>
+            </div>
+  
+            <div class="review-item">
+              <div class="review-img-block">
+                <img src="../img/logo-cableman.png" alt="Логотип">
+              </div>
+              <div class="review-text">
+                Наша компания за несколько лет сменила несколько команд программистов и специалистов техподдержки, и почти отчаялась найти на российском рынке адекватное профессиональное предложение по разумной цене. Пока мы не начали работать с командой "Инитлаб", воплощающей в себе все наши представления о нормальной системе взаимодействия в сочетании с профессиональным неравнодушием. Впервые в моей деловой практике я чувствую надежно прикрытыми важнейшие задачи в жизни электронного СМИ, при том, что мои коллеги работают за сотни километров от нас и мы никогда не встречались лично.
+              </div>
+              <div class="author-of-review">
+                Константин Бельский, зам. генерального директора портала
+                <a href="https://www.cableman.ru/">Кабельщик.ру</a>
+              </div>
+            </div>
+  
+            <div class="review-item">
+              <div class="review-img-block">
+                <img src="../img/logo-serebro.png" alt="Логотип">
+              </div>
+              <div class="review-text">
+                За довольно продолжительный срок (2014 - 2016 годы) весьма плотной работы (интернет-магазин на безумно замороченном Drupal 6: устраняли косяки разработчиков, ускоряли сайт, сделали множество новых функций и т.п.) - только самые добрые эмоции от работы с командой Initlab / Drupal-coder: всегда можно рассчитывать на быструю и толковую помощь, поддержку, совет. Даже сейчас, не смотря на то, что мы почти год не работали на постоянной основе (банально закончились задачи), случайно возникшая проблема с сайтом была решена мгновенно! В общем, только самые искренние благодарности и рекомендации! Спасибо! )
+  
+              </div>
+              <div class="author-of-review">
+                С уважением, Владислав,
+                <a href="http://serebro.ag">Serebro.Ag</a>
+              </div>
+            </div>
+
+            <div class="review-item">
+              <div class="review-img-block">
+                <img src="../img/logo-lpcma.jpg" alt="Логотип">
+              </div>
+              <div class="review-text">
+                Хотел поблагодарить за работу над нашими сайтами. За 4 месяца работы привели сайт в порядок, а самое главное получили инструмент, с помощью мы теперь можем быстро и красиво выставлять контент для образования и работы с предприятиями http://lpcma.tsu.ru/ru/post/reference_material Ну и многому научись благодаря работе с вами. Мы очень рады, что удалось найти настолько компетентных ребят )
+              </div>
+              <div class="author-of-review">
+                Дмитрий Новиков,
+                <a href="http://lpcma.ru">lpcma.tsu.ru</a>
+              </div>
+            </div>
+          </div>
+          <div class="review-arrow-nav">
+            <button id="left-arrow"></button>
+              <div class="review-counter">
+                <span id="rev-num">01</span>/08
+              </div>
+            <button id="right-arrow"></button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer class="footer">
+    <div class="container" id="fc">
+      <div class="row" id="fr">
+        <div class="col-12 col-md-6" id="fb1">
+          <div class="footer-block-title">
+            Оставить заявку на поддержку сайта
+          </div>
+          <div class="footer-block-description">
+            Срочно нужна поддержка сайта?
+            Ваша команда не успевает справиться самостоятельно или предыдущий подрядчик не справился с
+            работой?
+            Тогда вам точно к нам! Просто оставьте заявку и наш менеджер с вами свяжется!
+          </div>
+          <div class="footer-block-contacts">
+            <ul>
+              <li class="footer-contacts-phone">
+                <a href="">8 800 222-26-32</a>
+              </li>
+              <li class="footer-contacts-mail">
+                <a href="">info@drupal-coder.ru</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-12 col-md-6" id="fb">
+          <div class="form-block">
+            <form id="form" action="https://formcarry.com/s/R_aYTObeqs" method="POST">
+              <input name="fname" id="fname" class="footer-form-input" placeholder="Ваше имя">
+              <input name="fnumber" id="fnumber" class="footer-form-input" placeholder="Телефон">
+              <input name="femail" id="femail" type="femail" class="footer-form-input" placeholder="E-mail">
+              
+              <textarea name="fmessage" id="fmessage" placeholder="Ваш комментарий" class="footer-form-input"></textarea>
+              <label for="fpolicy" class="c_box">
+                <input name="fpolicy" type="checkbox" class="cb" id="fpolicy">
+                <span class="cb_place"></span>
+                <div>
+                  <span class="checkbox-text">Отправляя заявку, я даю согласие на
+                    <a href="">обработку своих персональных данных</a>.
+                  </span>
+                </div>
+              </label>
+              <div id="recaptcha-store">
+                <div id="recaptcha" class="g-recaptcha"
+                  data-sitekey="*ПУСТЬ НА ТАНИНУ ПОЧТУ ПРИСЫЛАЕТСЯ*" data-theme="dark"
+                  data-callback="captchaCallback" data-expired-callback="captchaCallback"></div>
+                </div>
+              <input id="sendButton" type="submit" class="footer-contact-button" value="СВЯЖИТЕСЬ С НАМИ" disabled>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="footer-social-links">
+        <div class="footer-links">
+          <p>
+            Проект ООО «Инитлаб», Краснодар, Россия.
+            <br>
+            Drupal является зарегистрированной торговой маркой Dries Buytaert.
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
 </section>
 
 <style>
