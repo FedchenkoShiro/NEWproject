@@ -900,6 +900,132 @@
 </section>
 
 <style>
+	  .cases h2 {
+	    font-weight: bold;
+	    font-size: 42px;
+	    margin-bottom: 46px;
+	    margin-top: 0;
+	    text-align: center;
+	    color: #050c33;
+	  }
+	
+	  .articles{
+	    display: flex;
+	    flex-wrap: wrap;
+	  }
+	
+	  .article-block{
+	    min-height: 475px;
+	    display: flex;
+	    flex-direction: column;
+	    padding: 0 10px;
+	    width: 100%;
+	    font-size: 14px;
+	    color: #4e5a73;
+	    position: relative;
+	    cursor: pointer;
+	    margin: 0;
+	  }
+	
+	  .article-block-full-img{
+	    position: relative;
+	    color: #fff;
+	    padding: 40px;
+	  }
+	
+	  .article-block-full-img::before{
+	    content: "";
+	    display: block;
+	    position: absolute;
+	    top: 10px;
+	    right: 10px;
+	    bottom: 10px;
+	    left: 10px;
+	    background: linear-gradient(360deg, rgba(0, 0, 0, .5) 0, rgba(0, 0, 0, 0) 50%);
+	    z-index: 5;
+	    border-radius: 5px;
+	  }
+	
+	  .article-img {
+	    width: 100%;
+	    height: 40%;
+	    background-size: cover;
+	    background-position: center;
+	    border-radius: 5px;
+	  }
+	
+	  .article-block-full-img .article-img {
+	    position: absolute;
+	    top: 10px;
+	    bottom: 10px;
+	    left: 10px;
+	    right: 10px;
+	    height: auto;
+	    width: auto;
+	  }
+	
+	  .art-data {
+	    margin-left: 40px;
+	    margin-right: 40px;
+	    z-index: 5;
+	    opacity: 0.5;
+	    line-height: 1.5;
+	  }
+	
+	  .article-block h3 {
+	    margin-left: 40px;
+	    margin-top: 50px;
+	  }
+	
+	  .article-block-full-img h3 {
+	    color: #fff;
+	    margin-top: auto;
+	    margin-left: 0;
+	    margin-right: 0;
+	    width: 320px;
+	    max-width: 100%;
+	    z-index:5;
+	  }
+	
+	  .article-block-full-img .art-data {
+	    margin-left: 0;
+	  }
+	
+	  .art-text {
+	    margin-top: 20px;
+	    margin-left: 40px;
+	    margin-right: 40px;
+	    z-index: 5;
+	  }
+	
+	  @media screen and (min-width: 768px) {
+	    .cases h2 {
+	        font-size: 42px;
+	        margin-bottom: 80px;
+	        margin-top: 130px; 
+	    }
+
+	    .article-block {
+	      width: 33.3%;
+	    }
+	
+	    .article-block:nth-child(2){
+	      width: 66.6%;
+	    }
+	  }
+	
+	  @media (min-width: 992px) {
+	    .container {
+	      width: 970px;
+	    }
+	  }
+	
+	  @media (min-width: 1200px) {
+	    .container {
+	      width: 1170px;
+	    }
+	  }
+
 	.container {
 	    margin-left: auto;
 	    margin-right: auto;
