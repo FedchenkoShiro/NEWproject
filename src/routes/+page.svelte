@@ -243,8 +243,257 @@
             border-radius: 4px;
             display: block;
         }
-    </style>
+</style>
+<section>
+    <div class="fullscreen">
+        <div class="region region-fullscreen">
+            <section id="block-miss" class="block ">
+                <div class="field">
+                    <div class="main-block">
+                        <div class="main-block-background">
+                            <div class="druplicon-img">
+                                <img src="../../../static/img/druplicon.svg">
+                            </div>
+                            <video autoplay loop class="fillWidth" playsinline preload="auto" muted>
+                                <source src="../../../static/img/video.mp4" type="video/mp4">
+                            </video>
+                        </div>
+                        <div class="container main-block-container">
+                            <div class="row">
+                                <div class=" col-lg-6">
+                                    <h1 class="page-title">Поддержка <br> сайтов на Drupal</h1>
+                                    <div class="undertitle-description">
+                                        Сопровождение и поддержка сайтов <br>
+                                        на CMS Drupal любых версий и запущенности
+                                    </div>
+                                    <div class="containter-udretitle-btn">
+                                        <a href="" class="undertitle-btn"> ТАРИФЫ</a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="row cup">
+                                        <div class="col-md-4 col-sm-4 col-xs-6 cup">
+                                            <div class="cup-wrapper">
+                                                <div class="first-cup-title">
+                                                    #1
+                                                    <img alt="Кубок" class="cup" src="../../../static/img/cup.png">
+                                                </div>
+                                                <div class="cup-description">
+                                                    Drupal-разработчик
+                                                    <br>
+                                                    в России по версии <br> Рейтинга Рунета
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-4 col-xs-6 cup">
+                                            <div class="cup-wrapper">
+                                                <div class="cup-title">
+                                                    3+
+                                                </div>
+                                                <div class="cup-description">
+                                                    средний опыт <br> специалистов более <br> 3 лет
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-4 col-xs-6 cup">
+                                            <div class="cup-wrapper">
+                                                <div class="cup-title">
+                                                    14
+                                                </div>
+                                                <div class="cup-description">
+                                                    лет опыта в сфере <br> Drupal
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-4 col-xs-6 cup">
+                                            <div class="cup-wrapper">
+                                                <div class="cup-title">
+                                                    200+
+                                                </div>
+                                                <div class="cup-description">
+                                                    модулей и тем <br> в формате DrupalGive
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-4 col-xs-6 cup">
+                                            <div class="cup-wrapper">
+                                                <div class="cup-title">
+                                                    35 000
+                                                </div>
+                                                <div class="cup-description">
+                                                    часов поддержки <br>сайтов на Drupal
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-4 col-xs-6 cup">
+                                            <div class="cup-wrapper">
+                                                <div class="cup-title">
+                                                    200+
+                                                </div>
+                                                <div class="cup-description">
+                                                    Проектов<br> на поддержке
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</section>
 
+<style>
+        .main-block {
+            overflow: hidden;
+            position: relative;
+            padding: 130px 0 30px;
+            height: 803px;
+            color: #fff;
+            font-family: Montserrat;
+        }
+
+        video {
+            position: absolute;
+            width: auto;
+            height: auto;
+            top: 0;
+            left: 0;
+            right: 0;
+            min-width: 100%;
+            min-height: 100%;
+            z-index: 5;
+            filter: blur(3px);
+            transform: scale(1.04);
+            filter: brightness(0.2)
+        }
+
+        .druplicon-img {
+            position: absolute;
+            z-index: 6;
+            top: 0;
+            left: 0;
+        }
+
+        .druplicon-img img {
+            width: 380px;
+            height: 370px;
+        }
+
+        .row {
+            margin: 0 -15px 0 0;
+        }
+
+        .main-block-container {
+            top: -100px;
+        }
+
+        .main-block h1 {
+            font-size: 24px;
+            line-height: 60px;
+            line-height: 1.2;
+            text-align: center;
+            font-weight: bold;
+            margin-top: 0;
+            margin-bottom: 20px;
+        }
+
+
+
+        .undertitle-description {
+            font-size: 14px;
+            line-height: 1.6;
+            font-weight: 500;
+            color: #fff;
+            opacity: 80%;
+            margin-bottom: 55px;
+            text-align: center;
+        }
+
+        .undertitle-btn {
+            display: inline-block;
+            text-decoration: none;
+            color: white;
+            font-weight: 500;
+            font-size: 12px;
+            line-height: 1;
+            padding: 20.5px 80px;
+            width: 220px;
+            text-align: center;
+            border: 2px solid #f14d34;
+            border-radius: 5px;
+        }
+
+
+        .containter-udretitle-btn {
+            margin-bottom: 50px;
+            text-align: center;
+        }
+
+        .undertitle-btn:hover {
+            text-decoration: none;
+            color: white;
+            background-color: #f14d34;
+            transition: background-color 400ms;
+        }
+
+        .main-block-container .col-xs-6 {
+            width: 50%;
+        }
+
+        .cups {
+            display: flex;
+            margin-top: 50px;
+        }
+
+        .cup {
+            margin-bottom: 32px;
+        }
+
+        .cup-wrapper {
+            border-left: 3px solid #f14d34;
+            padding-left: 15px;
+            padding-top: 5px;
+            padding-bottom: 10px;
+            min-height: 80px;
+            height: 100%;
+        }
+
+        .first-cup-title {
+            font-size: 48px;
+            margin-top: -22px;
+            color: white;
+            font-weight: bold;
+            line-height: 1;
+            margin-bottom: 5px;
+            position: relative;
+        }
+
+        .cup-title {
+            font-size: 24px;
+            color: white;
+            font-weight: bold;
+            line-height: 1;
+            margin-bottom: 5px;
+            position: relative;
+        }
+
+        .cup-description {
+            font-size: 12px;
+            font-weight: 500;
+            line-height: 1.25;
+            color: white;
+            opacity: 70%;
+        }
+
+        .first-cup-title img {
+            position: absolute;
+            top: -16px;
+        }
+</style>
 
 
 
