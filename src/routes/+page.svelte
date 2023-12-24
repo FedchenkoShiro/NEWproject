@@ -15,6 +15,239 @@
     <link rel="stylesheet" href="style.css">
     <script defer src="script.js"></script>
 </svelte:head>
+
+<section>
+	<header class="navbar default-navbar" id="navbar" role="banner">
+
+        <div class="container">
+            <div class="navbar-logo">
+                <img src="../../../static/img/drupal-coder.svg" alt="Логотип">
+            </div>
+            <div class="navbar-collapse-wrapper">
+                <div class="region region-navigation-collapsible">
+                    <nav role="navigation" aria-labelledby="block-bootstrap-dc-main-menu-menu">
+                        <ul class="menu nav navbar-default">
+                            <li>
+                                <a href="" class="is-active" style="border-color: #f14d34; border-bottom: 3px solid;">ПОДДЕРЖКА DRUPAL</a>
+                            </li>
+                            <li class="expanded dropdown">
+                                <a href="" class="dropdown-toggle" data-toggle="dropdown" title="">АДМИНИСТРИРОВАНИЕ</a>
+                                <div class="container-fluid dropdown-menu-wrapper" style="position: absolute;">
+                                    <ul class="menu dropdown-menu">
+                                        <li>
+                                            <a href="" title="">МИГРАЦИЯ</a>
+                                        </li>
+                                        <li>
+                                            <a href="" title="">БЭКАПЫ</a>
+                                        </li>
+                                        <li>
+                                            <a href="" title="">АУДИТ БЕЗОПАСНОСТИ</a>
+                                        </li>
+                                        <li>
+                                            <a href="" title="">ОПТИМИЗАЦИЯ СКОРОСТИ</a>
+                                        </li>
+                                        <li>
+                                            <a href="" title="">ПЕРЕЕЗД НА HTTPS</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li>
+                                <a href="" class="is-active">ПРОДВИЖЕНИЕ</a>
+                            </li>
+
+                            <li>
+                                <a href="" class="is-active">РЕКЛАМА</a>
+                            </li>
+                            <li class="expanded dropdown">
+                                <a href="" class="dropdown-toggle" data-toggle="dropdown" title="">О НАС</a>
+                                <div class="container-fluid dropdown-menu-wrapper" style="position: absolute;">
+                                    <ul class="menu dropdown-menu">
+                                        <li>
+                                            <a href="" title="">КОМАНДА</a>
+                                        </li>
+                                        <li>
+                                            <a href="" title="">DRUPALGIVE</a>
+                                        </li>
+                                        <li>
+                                            <a href="" title="">БЛОГ</a>
+                                        </li>
+                                        <li>
+                                            <a href="" title="">КУРСЫ DRUPAL</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li>
+                                <a href="" class="is-active">ПРОЕКТы</a>
+                            </li>
+                            <li>
+                                <a href="" class="is-active">КОНТТАКТЫ</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <div class="navbar-mobile">
+        <nav class="navbar navbar-expand-lg fixed-bottom navbar-dark" style="background-color: black;">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <a class="d-block p-2" href="">
+                    <div class="a-text">ПОДДЕРЖКА DRUPAL</div>
+                </a>
+                <a class="d-block p-2" href="">
+                    <div class="a-text">АДМИНИСТРИРОВАНИЕ <span class="caret"></span></div>
+                </a>
+                <a class="d-block p-2" href="">
+                    <div class="dropdown-text">МИГРАЦИЯ</div>
+                </a>
+                <a class="d-block p-2" href="">
+                    <div class="dropdown-text">БЭКАПЫ</div>
+                </a>
+                <a class="d-block p-2" href="">
+                    <div class="dropdown-text">АУДИТ БЕЗОПАСНОСТИ</div>
+                </a>
+                <a class="d-block p-2" href="">
+                    <div class="dropdown-text">ОПТИМИЗАЦИЯ СКОРОСТИ</div>
+                </a>
+                <a class="d-block p-2" href="">
+                    <div class="dropdown-text">ПЕРЕЕЗД НА HTTPS</div>
+                </a>
+                <a class="d-block p-2" href="">
+                    <div class="a-text">ПРОДВИЖЕНИЕ</div>
+                </a>
+                <a class="d-block p-2" href="">
+                    <div class="a-text">РЕКЛАМА</div>
+                </a>
+                <a class="d-block p-2" href="">
+                    <div class="a-text">О НАС <span class="caret"></span></div>
+                </a>
+                <a class="d-block p-2" href="">
+                    <div class="dropdown-text">КОМАНДА</div>
+                </a>
+                <a class="d-block p-2" href="">
+                    <div class="dropdown-text">DRUPALGIVE</div>
+                </a>
+                <a class="d-block p-2" href="">
+                    <div class="dropdown-text">БЛОГ</div>
+                </a>
+                <a class="d-block p-2" href="">
+                    <div class="dropdown-text">КУРСЫ DRUPAL</div>
+                </a>
+                <a class="d-block p-2" href="">
+                    <div class="a-text">ПРОЕКТЫ</div>
+                </a>
+                <a class="d-block p-2" href="">
+                    <div class="a-text">КОНТАКТЫ</div>
+                </a>
+
+            </div>
+            <a class="navbar-brand" href="#">
+                <img src="../../../static/img/drupal-coder.svg" width=175 height=25 alt="Главная">
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </nav>
+    </div>
+</section>
+
+<style>
+        #navbar {
+            display: none;
+            position: fixed;
+            background: #000;
+            bottom: -2px;
+            top: auto;
+            z-index: 100;
+            left: 0;
+            right: 0;
+            padding: 0;
+        }
+
+        .navbar-logo {
+            bottom: 8px;
+        }
+
+        .navbar-logo img {
+            width: 37%;
+        }
+
+        .navbar-collapse-wrapper {
+            width: max-content;
+            float: none;
+            margin-left: -15px;
+            margin-right: -15px;
+        }
+
+        .nav {
+            list-style: none;
+        }
+
+        .navbar-collapse a {
+            padding: 0;
+            width: 110%;
+            margin-left: -15px;
+            margin-right: -15px;
+            margin-top: 2px;
+            margin-bottom: 2px;
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 13px;
+            text-transform: uppercase;
+            color: #fff;
+            border-bottom: 1px solid #312a2a;
+        }
+
+        .a-text {
+            margin-left: 10px;
+        }
+
+        .dropdown-text {
+            margin-left: 30px;
+        }
+
+        .main-block-container {
+            z-index: 15;
+            position: relative;
+            margin: auto;
+        }
+
+        .navbar-logo {
+            bottom: 8px;
+        }
+
+        #navbar .logo-href {
+            display: block;
+            width: 190px;
+            margin-right: 60px;
+        }
+
+        .navbar-toggle {
+            position: relative;
+            float: right;
+            padding: 9px 10px;
+            margin: 8px 0px;
+            background-image: none;
+            border-radius: 4px;
+            display: block;
+        }
+    </style>
+
+
+
+
 <section>
 	<section class="tariffs" id="tariffs">
         <h2>Тарифы</h2>
