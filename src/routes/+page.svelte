@@ -160,7 +160,6 @@
             </button>
         </nav>
     </div>
-    
 </section>
 
 <style>
@@ -493,6 +492,825 @@
         .first-cup-title img {
             position: absolute;
             top: -16px;
+        }
+</style>
+
+<section>
+<div class="Support">
+        <div id="react-main"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h2>13 лет совершенствуем <br> компетенции в Drupal <br> разработке!</h2>
+                    <div class="Support-description">
+                        Разрабатываем и оптимизируем модули, расширяем <br> функциональность
+                        сайтов, обновляем дизайн
+                    </div>
+                </div>
+            </div>
+            <br>
+            <div class="row row-flex cmpt">
+                <div class="col-sm-3 col-xs-6">
+                    <div class="Support-block">
+                        <div class="main-Support-block">
+                            <div class="Support-img">
+                                <img src="/img/competency-1.svg">
+                                <img class="img_back" src="img/icon-bg.svg" alt="fon">
+                            </div>
+                            <div class="Support-title">
+                                Добавление <br>
+                                информации на сайт, <br>
+                                создание новых <br>
+                                разделов
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3 col-xs-6">
+                    <div class="Support-block">
+                        <div class="main-Support-block">
+                            <div class="Support-img">
+                                <img src="/img/competency-2.svg">
+                                <img class="img_back" src="/img/icon-bg.svg" alt="fon">
+                            </div>
+                            <div class="Support-title">
+                                Разработка <br>
+                                и оптимизация, <br>
+                                модулей сайта
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3 col-xs-6">
+                    <div class="Support-block">
+                        <div class="main-Support-block">
+                            <div class="Support-img">
+                                <img src="img/competency-3.svg">
+                                <img class="img_back" src="img/icon-bg.svg" alt="fon">
+                            </div>
+                            <div class="Support-title">
+                                Интеграция с CRM, <br>
+                                1С, платежными <br>
+                                системами, любыми <br>
+                                веб-сервисами
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3 col-xs-6">
+                    <div class="Support-block">
+                        <div class="main-Support-block">
+                            <div class="Support-img">
+                                <img src="img/competency-4.svg">
+                                <img class="img_back" src="img/icon-bg.svg" alt="fon">
+                            </div>
+                            <div class="Support-title">
+                                Любые доработки <br>
+                                функционала <br>
+                                и дизайна
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3 col-xs-6">
+                    <div class="Support-block">
+                        <div class="main-Support-block">
+                            <div class="Support-img">
+                                <img src="img/competency-5.svg">
+                                <img class="img_back" src="img/icon-bg.svg" alt="fon">
+                            </div>
+                            <div class="Support-title">
+                                Аудит и мониторинг <br>
+                                безопасности Drupal <br>
+                                сайтов
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3 col-xs-6">
+                    <div class="Support-block">
+                        <div class="main-Support-block">
+                            <div class="Support-img">
+                                <img src="img/competency-6.svg">
+                                <img class="img_back" src="img/icon-bg.svg" alt="fon">
+                            </div>
+                            <div class="Support-title">
+                                Миграция, импорт <br>
+                                контента и апгрейд <br>
+                                Drupal
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3 col-xs-6">
+                    <div class="Support-block">
+                        <div class="main-Support-block">
+                            <div class="Support-img">
+                                <img src="/img/competency-7.svg">
+                                <img class="img_back" src="img/icon-bg.svg" alt="fon">
+                            </div>
+                            <div class="Support-title">
+                                Оптимизация <br>
+                                и ускорение <br>
+                                Drupal-сайтов
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3 col-xs-6">
+                    <div class="Support-block">
+                        <div class="main-Support-block">
+                            <div class="Support-img">
+                                <img src="/img/competency-8.svg">
+                                <img class="img_back" src="img/icon-bg.svg" alt="fon">
+                            </div>
+                            <div class="Support-title">
+                                Веб-маркетинг, <br>
+                                консультации <br>
+                                и работы по SEO
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="support">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>Поддержка <br> от Drupal-Coder</h2>
+                </div>
+            </div>
+            <div class="row row-flex support-blocks">
+                <div class="col-sm-6 col-md-3 col-xs-12 sup-pics">
+                    <div class="support-block">
+                        <div class="sup-block-header">
+                            <div class="sup-num">01.</div>
+                            <div class="sup-block-title">
+                                Постановка задачи по Email
+                            </div>
+                        </div>
+                        <div class="sup-block-text">
+                            Удобная и привычная модель постановки задач,
+                            при которой задачи фиксируются и никогда не теряются.
+                        </div>
+                        <div class="sup-block-icon">
+                            <img src="img/support1.svg">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-xs-12 sup-pics">
+                    <div class="support-block">
+                        <div class="sup-block-header">
+                            <div class="sup-num">02.</div>
+                            <div class="sup-block-title">
+                                Система Helpdesk -
+                                отчетность, прозрачность
+                            </div>
+                        </div>
+                        <div class="sup-block-text">
+                            Возможность посмотреть все заявки в работе и отработанные часы
+                            в личном кабинете через браузер.
+                        </div>
+                        <div class="sup-block-icon">
+                            <img src="/img/support2.svg">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-xs-12 sup-pics">
+                    <div class="support-block">
+                        <div class="sup-block-header">
+                            <div class="sup-num">03.</div>
+                            <div class="sup-block-title">
+                                Расширенная техническая поддержка
+                            </div>
+                        </div>
+                        <div class="sup-block-text">
+                            Возможность организации расширенной техподдержки
+                            с 6:00 до 22:00 без выходных.
+                        </div>
+                        <div class="sup-block-icon">
+                            <img src="/img/support3.svg">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-xs-12 sup-pics">
+                    <div class="support-block">
+                        <div class="sup-block-header">
+                            <div class="sup-num">04.</div>
+                            <div class="sup-block-title">
+                                Персональный менеджер проекта
+                            </div>
+                        </div>
+                        <div class="sup-block-text">
+                            Персональный менеджер проекта всегда в курсе текущего состояния
+                            проекта и в любой момент готов ответить на любые вопросы.
+                        </div>
+                        <div class="sup-block-icon">
+                            <img src="img/support4.svg">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-xs-12 sup-pics">
+                    <div class="support-block">
+                        <div class="sup-block-header">
+                            <div class="sup-num">05.</div>
+                            <div class="sup-block-title">
+                                Удобные способы оплаты
+                            </div>
+                        </div>
+                        <div class="sup-block-text">
+                            Безналичный расчет по договору или электронные деньги:
+                            WebMoney, Яндекс.Деньги, Paypal.
+                        </div>
+                        <div class="sup-block-icon">
+                            <img src="img/support5.svg">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-xs-12 sup-pics">
+                    <div class="support-block">
+                        <div class="sup-block-header">
+                            <div class="sup-num">06.</div>
+                            <div class="sup-block-title">
+                                Работаем с SLA и NDA
+                            </div>
+                        </div>
+                        <div class="sup-block-text">
+                            Работа в рамках соглашений о конфиденциальности
+                            и об уровне качества работ.
+                        </div>
+                        <div class="sup-block-icon">
+                            <img src="img/support6.svg">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-xs-12 sup-pics">
+                    <div class="support-block">
+                        <div class="sup-block-header">
+                            <div class="sup-num">07.</div>
+                            <div class="sup-block-title">
+                                Штатные специалисты
+                            </div>
+                        </div>
+                        <div class="sup-block-text">
+                            Надежные штатные специалисты, никаких фрилансеров.
+                        </div>
+                        <div class="sup-block-icon">
+                            <img src="img/support7.svg">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-xs-12 sup-pics">
+                    <div class="support-block">
+                        <div class="sup-block-header">
+                            <div class="sup-num">08.</div>
+                            <div class="sup-block-title">
+                                Удобные каналы связи
+                            </div>
+                        </div>
+                        <div class="sup-block-text">
+                            Консультации по телефону, скайпу, в мессенджерах.
+                        </div>
+                        <div class="sup-block-icon">
+                            <img src="img/support8.svg">
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+        .support {
+            font-family: Montserrat;
+            margin-bottom: -212px;
+        }
+
+        .support h2 {
+            margin-bottom: 55px;
+            text-align: center;
+            color: #050c33;
+            font-weight: bold;
+            font-size: 24px;
+        }
+
+        .support-blocks {
+            margin-bottom: -212px;
+            padding: 0 12px;
+            position: relative;
+            z-index: 20;
+        }
+
+
+        .sup-pics {
+            margin-bottom: 5px;
+        }
+
+        .support-block {
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 20px 20px 40px rgba(5,12,51,.05);
+            margin-left: -12px;
+            margin-right: -12px;
+            height: 100%;
+            position: relative;
+            padding: 25px 25px 45px;
+            min-height: 292px;
+        }
+
+        .sup-block-text {
+            position: relative;
+            z-index: 10;
+            font-weight: 500;
+            font-size: 16px;
+            color: #4e5a73;
+            line-height: 1.37;
+        }
+
+        .sup-block-icon {
+            position: absolute;
+            right: 0;
+            bottom: 0;
+            z-index: 5;
+        }
+
+        .sup-num {
+            font-weight: bold;
+            font-size: 12px;
+            color: #828a9b;
+            margin-bottom: 20px;
+            font-family: Montserrat;
+        }
+
+        .sup-block-title {
+            font-weight: bold;
+            font-size: 18px;
+            color: #050c33;
+            line-height: 1.22;
+            margin-bottom: 15px;
+        }
+</style>
+
+<section>
+<div class="expertise">
+        <div class="container">
+            <div class="laptop-img">
+                <img alt="laptop" class="laptop" src="img/laptop.png">
+            </div>
+            <div class="row">
+                <div class="col-md-6 col-xs-12 col-md-offset-6">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h2 class="expertise-title"> Экспертиза в Drupal,<br> опыт 14 лет!</h2>
+                        </div>
+                    </div>
+                    <div class="row ">
+                        <div class="col-sm-6 col-xs-12 expertise-collumn">
+                            <div class="expertise-block">
+                                <div class="expertise-block-description">
+                                    Только системный подход – контроль версий, резервирование и тестирование!
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-xs-12 expertise-collumn">
+                            <div class="expertise-block">
+                                <div class="expertise-block-description">
+                                    Только Drupal сайты, не берем на поддержку сайты на других CMS!
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-xs-12 expertise-collumn">
+                            <div class="expertise-block">
+                                <div class="expertise-block-description">
+                                    Участвуем в разработке ядра Drupal и модулей на Drupal.org, разрабатываем
+                                    <a href="">свои модули Drupal</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-xs-12 expertise-collumn">
+                            <div class="expertise-block">
+                                <div class="expertise-block-description">
+                                    Поддерживаем сайты на Drupal 5, 6, 7 и 8
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+
+<style>
+            .expertise {
+                padding: 230px 0 230px 0;
+                position: relative;
+                background: linear-gradient(254.72deg, rgba(225,255,255,.276) -114.85%, rgba(255,255,255,0) 69.04%), #040613;
+            }
+
+            .expertise:before {
+                content: "";
+                display: block;
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background: url(./img/druplicon-2.svg) no-repeat right bottom;
+                background-size: contain;
+                z-index: 10;
+            }
+
+            .expertise h2 {
+                font-weight: bold;
+                font-size: 30px;
+                margin-bottom: 65px;
+                color: #fff;
+                opacity: 100%;
+                font-family: Montserrat;
+            }
+
+            .expertise-block-description {
+                border-left: 3px solid #f14d34;
+                padding-left: 15px;
+                padding-top: 5px;
+                padding-bottom: 10px;
+                min-height: 88px;
+                height: 100%;
+                line-height: 22px;
+                font-weight: 500;
+                font-size: 16px;
+                color: rgba(256,256,256,.7);
+                width: 260px;
+                font-family: Montserrat;
+            }
+
+            .laptop-block {
+                padding: 0;
+                position: absolute;
+                left: 0;
+                bottom: 0;
+                width: 85%;
+                z-index: 10;
+                max-width: 735px;
+            }
+
+            .laptop {
+                width: 100%;
+                height: auto;
+                transform: translateY(16%);
+            }
+
+            .expertise-collumn {
+                margin-bottom: 30px;
+            }
+
+            .expertise a {
+                color: #f14d34;
+            }
+</style>
+
+
+<style>
+        @media screen and (min-width: 768px) {
+            .fifth-part h2 {
+                font-size: 42px;
+                margin-bottom: 80px;
+                margin-top: 130px;
+            }
+        }
+
+
+
+        @media (max-width: 992px) {
+            .support .col-md-3 {
+                min-width: 50%;
+            }
+        }
+
+
+        @media (min-width: 768px) {
+            #navbar {
+                display: block;
+            }
+
+            .navbar-mobile {
+                display: none;
+            }
+
+            .laptop-block img {
+                width: 100%;
+                left: 0;
+                bottom: 0;
+            }
+
+            .expertise .col-md-6 {
+                min-width: 100%;
+            }
+
+            .expertise .container .row .row {
+                min-width: 750px;
+            }
+            .contact-button {
+                color: #f14d32;
+            }
+
+            .support h2 {
+                font-size: 32px;
+            }
+
+            #navbar {
+                vertical-align: middle;
+                position: absolute;
+                z-index: 100;
+                padding: 30px 0px;
+                top: 0;
+                bottom: auto;
+                left: -30px;
+                right: 0;
+                min-height: 43px;
+                height: 105px;
+                background-color: transparent;
+            }
+
+            .main-block {
+                height: 900px;
+            }
+
+            .navbar-logo {
+                padding-bottom: 15px;
+            }
+
+            .navbar-logo > img {
+                width: 170px;
+            }
+
+            .main-block-container .col-lg-6 {
+                top: 140px;
+                left: -18px;
+            }
+
+            .main-block h1 {
+                font-size: 52px;
+                text-align: left;
+            }
+
+            .dropdown:hover .dropdown-menu {
+                position: absolute;
+                display: block;
+            }
+
+            .dropdown-menu:hover {
+                display: block;
+            }
+
+            .dropdown-menu > li {
+                height: 21px;
+                width: 100%;
+                margin: 0;
+                transition: background-color 400ms;
+            }
+
+            .dropdown-menu > li > a {
+                text-align: center;
+                height: 17px;
+                width: 181px;
+                padding: 3px 20px;
+            }
+
+            .dropdown-menu > li > a:hover {
+                border-bottom: 0px solid transparent;
+            }
+
+            .dropdown-menu > li:hover {
+                color: #fff;
+                background: #d13018;
+                transition: background-color 400ms;
+            }
+
+            header li {
+                height: 25px;
+                margin-right: 30px;
+            }
+
+            header a {
+                font-family: Montserrat;
+                font-size: medium;
+                color: white;
+                font-size: 12px;
+                border-color: #f14d34;
+                border-bottom: 3px solid transparent;
+                transition: border-color 400ms;
+                width: 174px;
+                height: 24px;
+                padding-bottom: 5px;
+            }
+
+            header a:hover {
+                color: white;
+                text-decoration: none;
+                border-color: #f14d34;
+            }
+
+            .dropdown-toggle {
+                margin-left: 1px;
+                border-bottom: 0px solid transparent;
+            }
+
+            .dropdown-menu {
+                background-color: #f14d34;
+                border-radius: 0;
+                width: max-content;
+                transition: all .5s;
+                display: none;
+                padding: 8px 0px;
+            }
+
+            .dropdown-menu:hover {
+                position: absolute;
+                display: block;
+            }
+
+            .navbar-toggle {
+                display: none;
+            }
+
+            .container {
+                width: 750px;
+                min-height: 43px;
+            }
+
+            .navbar-logo {
+                margin: 0;
+            }
+
+            .collapse {
+                display: block;
+                height: auto;
+                padding-bottom: 0;
+            }
+
+            .cup {
+                margin-bottom: 30px;
+            }
+
+            .undertitle-description {
+                text-align: left;
+                font-size: 18px;
+            }
+
+            .undertitle-btn {
+                margin-left: 0px;
+            }
+
+            .containter-udretitle-btn {
+                text-align: left;
+            }
+
+            .navbar-collapse.collapse {
+                display: block;
+                height: auto;
+                padding-bottom: 0;
+                overflow: visible;
+            }
+
+            .druplicon-img img {
+                height: auto;
+                width: auto;
+            }
+
+            .expertise h2 {
+                font-size: 32px;
+                margin-bottom: 65px;
+            }
+
+            .expertise {
+                padding: 380px 0 150px;
+            }
+
+            .laptop-block {
+                width: 70%;
+                position: relative;
+                transform: scale(1.4);
+                left: -35px;
+                bottom: -60px;
+            }
+        }
+
+        @media (min-width: 992px) {
+            .review-text {
+                margin-bottom: 28px;
+                font-weight: bold;
+                font-size: 14px;
+                line-height: 1.2;
+                color: #050c33;
+                min-width: 460px;
+            }
+
+            .review-content {
+                margin-top: 0;
+                width: 980px;
+                max-width: 100%;
+                margin-left: auto;
+                margin-right: auto;
+                position: relative;
+            }
+
+            .expertise h2 {
+                font-size: 42px;
+                margin-bottom: 65px;
+            }
+
+            .support h2 {
+                font-size: 42px;
+            }
+
+            .container {
+                width: 970px;
+            }
+
+            .main-block-container .col-md-6 {
+                width: 50%;
+                float: left;
+                top: 100px;
+                left: -18px;
+            }
+
+            .main-block-container .col-lg-6 {
+                top: 100px;
+                left: -18px;
+            }
+
+            .main-block h1 {
+                font-size: 52px;
+                text-align: left;
+            }
+
+            .cup {
+                margin-bottom: 96px;
+            }
+
+            .main-block {
+                height: 603px;
+            }
+
+            .druplicon-img img {
+                height: auto;
+                width: auto;
+            }
+
+            .navbar-logo {
+                padding-bottom: 0;
+            }
+
+            .col-md-offset-6 {
+                margin-left: 50%;
+            }
+
+            .laptop-block {
+                width: 70%;
+                position: absolute;
+                transform: none;
+                left: 0;
+                bottom: 0;
+            }
+        }
+
+        @media (min-width: 1200px) {
+            .container {
+                width: 1170px;
+            }
+
+            .row-ts {
+                width: 100%;
+            }
+
+            .cups {
+                margin-top: 50px;
+            }
+
+            .laptop-block {
+                width: 50%;
+            }
+
+            .Cmptn-img {
+                padding-left: 0;
+            }
+
+            .expertise .col-md-6 {
+                min-width: 50%;
+            }
         }
 </style>
 
