@@ -514,8 +514,8 @@
                     <div class="Support-block">
                         <div class="main-Support-block">
                             <div class="Support-img">
-                                <img src="/img/competency-1.svg">
-                                <img class="img_back" src="img/icon-bg.svg" alt="fon">
+                                <img src="../../../static/img/competency-1.svg">
+                                <img class="img_back" src="../../../static/img/icon-bg.svg" alt="fon">
                             </div>
                             <div class="Support-title">
                                 Добавление <br>
@@ -531,8 +531,8 @@
                     <div class="Support-block">
                         <div class="main-Support-block">
                             <div class="Support-img">
-                                <img src="/img/competency-2.svg">
-                                <img class="img_back" src="/img/icon-bg.svg" alt="fon">
+                                <img src="../../../static/img/competency-2.svg">
+                                <img class="img_back" src="../../../static/img/icon-bg.svg" alt="fon">
                             </div>
                             <div class="Support-title">
                                 Разработка <br>
@@ -547,8 +547,8 @@
                     <div class="Support-block">
                         <div class="main-Support-block">
                             <div class="Support-img">
-                                <img src="img/competency-3.svg">
-                                <img class="img_back" src="img/icon-bg.svg" alt="fon">
+                                <img src="../../../static/img/competency-3.svg">
+                                <img class="img_back" src="../../../static/img/icon-bg.svg" alt="fon">
                             </div>
                             <div class="Support-title">
                                 Интеграция с CRM, <br>
@@ -565,7 +565,7 @@
                         <div class="main-Support-block">
                             <div class="Support-img">
                                 <img src="img/competency-4.svg">
-                                <img class="img_back" src="img/icon-bg.svg" alt="fon">
+                                <img class="img_back" src="../../../static/img/icon-bg.svg" alt="fon">
                             </div>
                             <div class="Support-title">
                                 Любые доработки <br>
@@ -581,7 +581,7 @@
                         <div class="main-Support-block">
                             <div class="Support-img">
                                 <img src="img/competency-5.svg">
-                                <img class="img_back" src="img/icon-bg.svg" alt="fon">
+                                <img class="img_back" src="../../../static/img/icon-bg.svg" alt="fon">
                             </div>
                             <div class="Support-title">
                                 Аудит и мониторинг <br>
@@ -597,7 +597,7 @@
                         <div class="main-Support-block">
                             <div class="Support-img">
                                 <img src="img/competency-6.svg">
-                                <img class="img_back" src="img/icon-bg.svg" alt="fon">
+                                <img class="img_back" src="../../../static/img/icon-bg.svg" alt="fon">
                             </div>
                             <div class="Support-title">
                                 Миграция, импорт <br>
@@ -612,7 +612,7 @@
                     <div class="Support-block">
                         <div class="main-Support-block">
                             <div class="Support-img">
-                                <img src="/img/competency-7.svg">
+                                <img src="../../../static/img/competency-7.svg">
                                 <img class="img_back" src="img/icon-bg.svg" alt="fon">
                             </div>
                             <div class="Support-title">
@@ -628,7 +628,7 @@
                     <div class="Support-block">
                         <div class="main-Support-block">
                             <div class="Support-img">
-                                <img src="/img/competency-8.svg">
+                                <img src="../../../static/img/competency-8.svg">
                                 <img class="img_back" src="img/icon-bg.svg" alt="fon">
                             </div>
                             <div class="Support-title">
@@ -664,7 +664,7 @@
                             при которой задачи фиксируются и никогда не теряются.
                         </div>
                         <div class="sup-block-icon">
-                            <img src="img/support1.svg">
+                            <img src="../../../static/img/support1.svg">
                         </div>
                     </div>
                 </div>
@@ -682,7 +682,7 @@
                             в личном кабинете через браузер.
                         </div>
                         <div class="sup-block-icon">
-                            <img src="/img/support2.svg">
+                            <img src="../../../static/img/support2.svg">
                         </div>
                     </div>
                 </div>
@@ -699,7 +699,7 @@
                             с 6:00 до 22:00 без выходных.
                         </div>
                         <div class="sup-block-icon">
-                            <img src="/img/support3.svg">
+                            <img src="../../../static/img/support3.svg">
                         </div>
                     </div>
                 </div>
@@ -716,7 +716,7 @@
                             проекта и в любой момент готов ответить на любые вопросы.
                         </div>
                         <div class="sup-block-icon">
-                            <img src="img/support4.svg">
+                            <img src="../../../static/img/support4.svg">
                         </div>
                     </div>
                 </div>
@@ -733,7 +733,7 @@
                             WebMoney, Яндекс.Деньги, Paypal.
                         </div>
                         <div class="sup-block-icon">
-                            <img src="img/support5.svg">
+                            <img src="../../../static/img/support5.svg">
                         </div>
                     </div>
                 </div>
@@ -750,7 +750,7 @@
                             и об уровне качества работ.
                         </div>
                         <div class="sup-block-icon">
-                            <img src="img/support6.svg">
+                            <img src="../../../static/img/support6.svg">
                         </div>
                     </div>
                 </div>
@@ -766,7 +766,7 @@
                             Надежные штатные специалисты, никаких фрилансеров.
                         </div>
                         <div class="sup-block-icon">
-                            <img src="img/support7.svg">
+                            <img src="../../../static/img/support7.svg">
                         </div>
                     </div>
                 </div>
@@ -782,7 +782,7 @@
                             Консультации по телефону, скайпу, в мессенджерах.
                         </div>
                         <div class="sup-block-icon">
-                            <img src="img/support8.svg">
+                            <img src="../../../static/img/support8.svg">
                         </div>
                     </div>
                 </div>
@@ -867,7 +867,7 @@
 <div class="expertise">
         <div class="container">
             <div class="laptop-img">
-                <img alt="laptop" class="laptop" src="img/laptop.png">
+                <img alt="laptop" class="laptop" src="../../../static/img/laptop.png">
             </div>
             <div class="row">
                 <div class="col-md-6 col-xs-12 col-md-offset-6">
@@ -1313,7 +1313,6 @@
             }
         }
 </style>
-
 
 
 <section>
