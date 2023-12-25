@@ -980,7 +980,7 @@
                 </label>
                 <div id="recaptcha-store">
                   <div id="recaptcha" class="g-recaptcha"
-                    data-sitekey="*ПУСТЬ НА ТАНИНУ ПОЧТУ ПРИСЫЛАЕТСЯ*" data-theme="dark"
+                    data-sitekey="*ПУСТОТА НАВЕРНОЕ*" data-theme="dark"
                     data-callback="captchaCallback" data-expired-callback="captchaCallback"></div>
                   </div>
                 <input id="sendButton" type="submit" class="footer-contact-button" value="СВЯЖИТЕСЬ С НАМИ" disabled>
@@ -1001,7 +1001,3 @@
     </footer>
   </section>
 </section>
-
-<style>
-
-</style>
